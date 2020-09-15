@@ -1,0 +1,22 @@
+_repo: The-Lathe-of-Morpheus-or-The-dream-song-A-tribute-to-BC-from-EM_63113
+_version: 0.0.1
+creator:
+  author:
+    agent_name: E. M.
+    gutenberg_agent_id: '52292'
+    url: http://www.gutenberg.org/2009/agents/52292
+description: ''
+gutenberg_issued: '2020-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century'
+- GITenberg
+title: "The Lathe of Morpheus; or, The dream song.\r\nA tribute to B.C. from E.M"
+url: http://www.gutenberg.org/ebooks/63113
